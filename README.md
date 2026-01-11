@@ -4,9 +4,11 @@
 The Digital Notebook is a menu-driven application that simulates a notebook system where users can create, navigate, bookmark, and delete pages efficiently.
 The project demonstrates practical implementation of data structures such as Doubly Linked Lists and Stacks along with dynamic memory management.
 <br>
+<br>
 🎯 <b>Problem Statement</b>
 Existing digital notebooks often face issues like inefficient navigation, poor bookmarking mechanisms, and memory management limitations.
 This project aims to overcome these challenges by applying suitable data structures to provide smooth page navigation and fast access to important pages.
+<br>
 <br>
 📂 <b>Data Structures Used</b>
 <ol>
